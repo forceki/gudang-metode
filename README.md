@@ -1,8 +1,8 @@
 # gudang-metode
-__FIFO
+__FIFO__
 
 
-__LIFO
+__LIFO__
 
 
-__AVERAGE
+__AVERAGE__
